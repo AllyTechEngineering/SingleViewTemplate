@@ -8,7 +8,8 @@
 import UIKit
 
 class ViewController: UIViewController {
-
+    @IBOutlet weak var viewUIImageView: UIImageView!
+    
     @IBOutlet weak var labelLabel: UILabel!
     
     override func viewDidLoad() {
