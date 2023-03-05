@@ -19,6 +19,9 @@ class ViewController: UIViewController {
     func featureTwo (){
         print("featureTwo")
     }
+    func mainOne() {
+        print("mainOne")
+    }
 
     @IBAction func viewButton(_ sender: UIButton) {
     }
