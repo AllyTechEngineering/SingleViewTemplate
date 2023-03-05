@@ -16,8 +16,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
-    func doSomething () {
-        
+    func featureTwo (){
+        print("featureTwo")
     }
 
     @IBAction func viewButton(_ sender: UIButton) {
